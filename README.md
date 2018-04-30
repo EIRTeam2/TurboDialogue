@@ -1,3 +1,4 @@
+![asdasd](docs/images/banner.png)
 # TurboDialog, a generic dialog plugin for the godot engine
 
 # What this is and isn't
